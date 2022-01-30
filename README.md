@@ -5,7 +5,7 @@ Convert raw sigs to signatures
 
 *Example*
 ```
-node index.js 48 D4 E9
+node index.js 48 D4 ? E9
 ```
 > \x48\xD4\x00\xE9
 
